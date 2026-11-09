@@ -1,3 +1,10 @@
+
+---
+layout: default
+title: DSC 180A Methodology Assignment 4
+---
+
+
 # Sunny Sun
 
 **Email:** chs019@ucsd.edu  
